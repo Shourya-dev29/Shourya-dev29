@@ -48,13 +48,6 @@ Explore the repository to see the code, implementation, and project progress.
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shourya-dev29&show_icons=true&theme=tokyonight&hide_border=true" alt="Shourya's GitHub statistics"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shourya-dev29&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Shourya-dev29&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
