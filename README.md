@@ -28,8 +28,7 @@ My current focus is on:
 
 ## 🚀 Featured Project
 
-### 🌱 [MoolVani](https://github.com/Shourya-dev29/MoolVani)
-
+### [Campus Find] (https://github.com/Shourya-dev29/CampusFind)
 An AI-focused project that I'm developing as part of my journey in software development and hackathons.
 
 Explore the repository to see the code, implementation, and project progress.
