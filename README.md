@@ -28,7 +28,15 @@ My current focus is on:
 
 ## 🚀 Featured Project
 
-### [Campus Find] (https://github.com/Shourya-dev29/CampusFind)
+
+### 🔎 CampusFind — Smart Lost & Found
+A web application that helps students report, search,
+and claim lost items on campus.
+
+**Tech Stack:** Python, Flask, PostgreSQL, Supabase
+
+🌐 [Live Demo](https://campusfind-mv7d.onrender.com/)
+
 An AI-focused project that I'm developing as part of my journey in software development and hackathons.
 
 Explore the repository to see the code, implementation, and project progress.
